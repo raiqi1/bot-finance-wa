@@ -65,7 +65,7 @@ Ganti `SPREADSHEET_ID` dengan ID Google Sheets yang digunakan.
 ### ▶️ 5. Jalankan Aplikasi
 
 ```bash
-npm start
+node index.js
 ```
 
 ---
