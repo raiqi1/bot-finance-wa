@@ -1,6 +1,6 @@
 # 📊 Bot Finance WhatsApp
 
-Bot otomatis untuk mencatat pengeluaran melalui WhatsApp dan menyimpannya ke Google Sheets. Support integrasi AI (Gemini/OpenRouter) buat parsing atau pengolahan pesan lanjutan.
+Bot otomatis untuk mencatat pengeluaran melalui WhatsApp dan menyimpannya ke Google Sheets. Support integrasi AI (Deepseek via OpenRouter) buat parsing atau pengolahan pesan lanjutan.
 
 ---
 
@@ -8,7 +8,7 @@ Bot otomatis untuk mencatat pengeluaran melalui WhatsApp dan menyimpannya ke Goo
 
 - Simpan data pengeluaran lewat pesan WhatsApp
 - Terhubung langsung ke Google Sheets
-- Optional: integrasi AI (Gemini/OpenRouter) buat pemrosesan teks cerdas
+- Optional: integrasi AI (Deepseek via OpenRouter) buat pemrosesan teks cerdas
 
 ---
 
@@ -73,7 +73,7 @@ npm start
 ## 💬 Catatan
 
 - Pastikan akun service (`client_email` dari `credentials.json`) sudah diberikan akses edit ke Google Sheets kamu.
-- Untuk integrasi AI (Gemini/OpenRouter), pastikan API Key valid dan aktif.
+- Untuk integrasi AI (Deepseek via OpenRouter), pastikan API Key valid dan aktif.
 
 ---
 
